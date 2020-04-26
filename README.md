@@ -8,8 +8,8 @@
 算力<br>
 1、算力：<br>
 https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0<br>
-<table><tr><td bgcolor=#FFFF00>2、区块链与人工智能技术的基础设施</td></tr></table><br>
-<table><tr><td bgcolor=#FFFF00>何：</td></tr></table><br>
+$\color{#FFFF00}{2、区块链与人工智能技术的基础设施}$
+何：
 3、近线性时变系统业务<br>
 
 4、为什么说提供算力是一门不错的生意<br>
