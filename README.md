@@ -8,9 +8,19 @@
 算力<br>
 1、算力：<br>
 https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0<br>
-2、区块链与人工智能技术的基础设施<br>
+2、区块链与人工智能技术的基础设施
 何：<br>
 3、近线性时变系统业务<br>
+
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+
 
 4、为什么说提供算力是一门不错的生意<br>
 https://weibo.com/ttarticle/p/show?id=2309404479995908063731#_0<br>
