@@ -8,19 +8,9 @@
 算力<br>
 1、算力：<br>
 https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0<br>
-2、区块链与人工智能技术的基础设施
-何：<br>
+<table><tr><td bgcolor=#FFFF00>2、区块链与人工智能技术的基础设施</td></tr></table><br>
+<table><tr><td bgcolor=#FFFF00>何：</td></tr></table><br>
 3、近线性时变系统业务<br>
-
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=red>我是红色</font>
-<font color=#008000>我是绿色</font>
-<font color=Blue>我是蓝色</font>
-<font size=5>我是尺寸</font>
-<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
-
 
 4、为什么说提供算力是一门不错的生意<br>
 https://weibo.com/ttarticle/p/show?id=2309404479995908063731#_0<br>
@@ -64,6 +54,25 @@ https://weibo.com/ttarticle/p/show?id=2309404479986273747200#_0<br>
 http://www.yibo-ai.com/<br>
 云算力<br>
 http://aimining-service.com/<br>
+
+# 3、近线性时变系统业务
+
+## 1、业务分析
+线性时变系统：线性时变系统即同时满足线性系统和时变系统特征的系统，它满足系统叠加性与均匀性的特点，同时，当系统中某个参数值随时间而变化时，整个特性也随时间而变化。<br>
+非线性时变系统：非线性系统是指一个系统,如果其输出不与其输入成正比，则它是非线性的。从数学上看，非线性系统的特征是叠加原理不再成立。时变系统(time-varying system)其中一或一个以上的参数值随时间而变化，从而整个特性也随时间而变化的系统。时变系统的特点是，其输出响应的波形不仅同输入波形有关，而且也同输入信号加入的时刻有关。<br>
+## 2、产能过剩行业的业务属于非线性时变系统
+业务逻辑：<br>
+![业务逻辑](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/03-1.png) 
+从系统论的角度上看，产能严重过剩的今天却变得竞争异常激烈、变化大，属于非线性时变系统。
+非线性时变系统的投资回报分析：
+ 
+
+3、挖矿业务逻辑
+ 
+
+4、
+
+
 
 # 一、挖矿是合法的
 　　大部分人对比特币挖矿不了解，而虚拟货币这个行业前几年被ICO圈钱搞的很臭，使得大家误以为挖矿在国内不是合法的。今天我们梳理一下国内的挖矿相关的法律法规。这里，我们只关注比特币挖矿，而对于其他几千种鱼龙混杂的币种不做介绍。<br>
