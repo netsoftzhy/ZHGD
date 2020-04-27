@@ -5,13 +5,6 @@
 时间仓促，本小书内容包含我个人的并不成熟的观点，希望各位批评指正！<br>
 前言<br>
 
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-<font color=#ffff00 size=72>color=#00ffff</font>
-<font color=gray size=72>color=gray</font>
-
 # 一、算力
 ## 1、算力
 　　人类逐渐进入智能社会，智能的基础是计算、存储，也就是“数据+算力”，而算力就是新时代的能源，云、物、大、智等新兴科技赖以活跃的基础也是算力。<br>
@@ -152,7 +145,6 @@
 
 
 ## 3、矿场的模块化趋势
-
 ### （1）引言
 　　传统矿场为了节省成本，通常选址在水电站里面，这些很多是在大山里面，条件恶劣。而且电线、网线密密麻麻地盘绕在机架上，空隙很小，只能伸入一只手去维护，效率比较低。<br>
  ![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-1.jpg) <br>
