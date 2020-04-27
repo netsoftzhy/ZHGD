@@ -153,8 +153,8 @@ https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0
 　　1）精细能耗监控、故障告警<br>
 　　2）具有开放性，远程管理<br>
 ![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-3.jpg) <br>
-![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-4.jpg) <br>
 ![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-5.jpg) <br>
+![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-4.jpg) <br>
 ![](https://github.com/netsoftzhy/ZHGD/blob/master/ImageCache/01-6.jpg) <br>
 
 ### （4）小结
