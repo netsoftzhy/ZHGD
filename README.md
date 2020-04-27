@@ -5,6 +5,12 @@
 时间仓促，本小书内容包含我个人的并不成熟的观点，希望各位批评指正！<br>
 前言<br>
 
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+<font color=#ffff00 size=72>color=#00ffff</font>
+<font color=gray size=72>color=gray</font>
 
 # 一、算力
 ## 1、算力
@@ -243,7 +249,18 @@
 　　⑤功率密度大幅提升：单机柜功率密度可达60kW以上。<br>
 
 ## 8、基于AI技术的智能算力调度系统
-　　https://weibo.com/ttarticle/p/show?id=2309404479986273747200#_0<br>
+### （1）总体框架
+![](https://wx4.sinaimg.cn/large/007Qae8kgy1gcls6pz42lj30lu0dvmys.jpg)<br>
+### （2）平台功能
+![](https://wx1.sinaimg.cn/large/007Qae8kgy1gclsai9vz1j30oh0e1ab9.jpg)< br>
+### （3）深度学习
+![](https://wx2.sinaimg.cn/large/007Qae8kgy1gcls86ch58j30p30ecjvu.jpg)<br>
+### （4）应用场景一：
+![](https://wx1.sinaimg.cn/large/007Qae8kgy1gcls8nvxacj30q30bj0tr.jpg)<br>
+### （5）应用场景二：
+![](https://wx3.sinaimg.cn/large/007Qae8kgy1gcls91bktgj30q30bjwfi.jpg)<br>
+### （6）应用场景三：
+![](https://wx1.sinaimg.cn/large/007Qae8kgy1gcls9f2sd5j30q30bj0tb.jpg)<br>
 # 三、矿机 
 ## 1、矿机选型
 　　https://shop.bitmain.com.cn/<br>
