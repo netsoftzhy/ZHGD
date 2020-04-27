@@ -263,11 +263,11 @@ https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0
 
 
 
-关于本书<br>
+# 关于本书<br>
 　　抖音号：<br>
 　　视频号：<br>
 　　微信号：<br>
-其他<br>
+# 其他<br>
 中本聪论文：https://bitcoin.org/bitcoin.pdf<br>
 比特币是什么：https://bitcoin.org/zh_CN/<br>
 《精通比特币》第二版：https://www.bookstack.cn/read/MasterBitcoin2CN/README.md<br>
