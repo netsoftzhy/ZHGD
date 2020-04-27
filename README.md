@@ -4,53 +4,8 @@
 警告<br>
 时间仓促，本小书内容包含我个人的并不成熟的观点，希望各位批评指正！<br>
 前言<br>
-算力<br>
-1、算力：<br>
-https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0<br>
-2、区块链与人工智能技术的基础设施<br>
-何：<br>
-3、近线性时变系统业务<br>
-
-4、为什么说提供算力是一门不错的生意<br>
-https://weibo.com/ttarticle/p/show?id=2309404479995908063731#_0<br>
-5、比特币的价值<br>
-矿场<br>
-0、挖矿是合法的<br>
-1、矿业业务逻辑<br>
-2、矿场的设计原则<br>
-沈：<br>
-3、矿场的模块化趋势<br>
-https://weibo.com/ttarticle/p/show?id=2309404480664899551508#_0<br>
-6、矿场PUE与精确能源管理<br>
-沈：<br>
-7、矿场节能技术<br>
-沈：从风冷和液冷两个角度写<br>
-8、基于AI技术的智能算力调度系统<br>
-https://weibo.com/ttarticle/p/show?id=2309404479986273747200#_0<br>
-矿机<br>
-1、矿机选型：https://shop.bitmain.com.cn/<br>
-挖矿入场时机：<br>
-1、矿难会发生吗？  <br>
-2、比特币会归零吗？<br>
-
-识别借“挖矿”之名的资金盘<br>
-1、类似吉比特（不点名，只说产品特点）的模式<br>
-2、PlusToken资金盘<br>
 
 
-
-关于本书<br>
-　　抖音号：<br>
-　　视频号：<br>
-　　微信号：<br>
-其他<br>
-中本聪论文：https://bitcoin.org/bitcoin.pdf<br>
-比特币是什么：https://bitcoin.org/zh_CN/<br>
-《精通比特币》第二版：https://www.bookstack.cn/read/MasterBitcoin2CN/README.md<br>
-算力供应商<br>
-http://www.yibo-ai.com/<br>
-云算力<br>
-http://aimining-service.com/<br>
 # 一、算力
 ## 1、算力
 https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0
@@ -302,7 +257,24 @@ https://weibo.com/ttarticle/p/show?id=2309404480008906211469#_0
 　　持有股票，如果上市公司财务造假类似乐视、瑞幸咖啡等都有归零的风险，但是配置一点比特币，归零的风险反而低很多，因为要摧毁比特币需要摧毁全球的电力系统，还要摧毁全球的网络，难度非常大！<br>
 
 
- 
+# 五、识别借“挖矿”之名的资金盘<br>
+## 1、类似吉比特（不点名，只说产品特点）的模式<br>
+## 2、PlusToken资金盘<br>
+
+
+
+关于本书<br>
+　　抖音号：<br>
+　　视频号：<br>
+　　微信号：<br>
+其他<br>
+中本聪论文：https://bitcoin.org/bitcoin.pdf<br>
+比特币是什么：https://bitcoin.org/zh_CN/<br>
+《精通比特币》第二版：https://www.bookstack.cn/read/MasterBitcoin2CN/README.md<br>
+算力供应商<br>
+http://www.yibo-ai.com/<br>
+云算力<br>
+http://aimining-service.com/<br>
 
 
 
